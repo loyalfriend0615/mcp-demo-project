@@ -42,15 +42,15 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:stainless-sdks/mcp-demo-project-typescript.git
+$ npm install git+ssh://git@github.com:loyalfriend0615/mcp-demo-project.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/stainless-sdks/mcp-demo-project-typescript
-$ cd mcp-demo-project-typescript
+$ git clone https://www.github.com/loyalfriend0615/mcp-demo-project
+$ cd mcp-demo-project
 
 # With yarn
 $ yarn link
