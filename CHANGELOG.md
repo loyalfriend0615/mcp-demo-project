@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.2 (2025-06-21)
+
+Full Changelog: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
+
+### Chores
+
+* change publish docs url ([26fbb02](https://github.com/loyalfriend0615/mcp-demo-project/commit/26fbb02436d9f60493f1b51920e73d7186db1f4e))
+
 ## 0.1.0-alpha.1 (2025-06-21)
 
 Full Changelog: [v0.0.1-alpha.0...v0.1.0-alpha.1](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.0.1-alpha.0...v0.1.0-alpha.1)
