@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.3 (2025-06-21)
+
+Full Changelog: [v0.1.0-alpha.2...v0.1.0-alpha.3](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.2...v0.1.0-alpha.3)
+
+### Chores
+
+* **internal:** version bump ([9290db9](https://github.com/loyalfriend0615/mcp-demo-project/commit/9290db9c10643489b1a7d4fba513bbd251e34c7a))
+
 ## 0.1.0-alpha.2 (2025-06-21)
 
 Full Changelog: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
