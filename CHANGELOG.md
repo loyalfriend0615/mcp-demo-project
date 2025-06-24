@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.0-alpha.4 (2025-06-24)
+
+Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
+
+### Chores
+
+* **internal:** codegen related update ([9c36e25](https://github.com/loyalfriend0615/mcp-demo-project/commit/9c36e2586f11f3a17374b26accb771ae14182730))
+
+
+### Refactors
+
+* **types:** replace Record with mapped types ([8cfd879](https://github.com/loyalfriend0615/mcp-demo-project/commit/8cfd8790b27046054cfeb08280d7263665e2f077))
+
 ## 0.1.0-alpha.3 (2025-06-21)
 
 Full Changelog: [v0.1.0-alpha.2...v0.1.0-alpha.3](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.2...v0.1.0-alpha.3)
