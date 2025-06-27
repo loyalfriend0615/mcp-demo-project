@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.5 (2025-06-27)
+
+Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
+
+### Bug Fixes
+
+* **client:** get fetchOptions type more reliably ([6eb920f](https://github.com/loyalfriend0615/mcp-demo-project/commit/6eb920f378528ffd0b4f4958a45500991e7915cf))
+
 ## 0.1.0-alpha.4 (2025-06-24)
 
 Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
