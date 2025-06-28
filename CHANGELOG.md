@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.6 (2025-06-28)
+
+Full Changelog: [v0.1.0-alpha.5...v0.1.0-alpha.6](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.5...v0.1.0-alpha.6)
+
+### Chores
+
+* **ci:** only run for pushes and fork pull requests ([37afdc7](https://github.com/loyalfriend0615/mcp-demo-project/commit/37afdc71f4f5b2d73eca7ecdd590c5d91253b8cf))
+
 ## 0.1.0-alpha.5 (2025-06-27)
 
 Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
