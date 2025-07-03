@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.7 (2025-07-03)
+
+Full Changelog: [v0.1.0-alpha.6...v0.1.0-alpha.7](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.6...v0.1.0-alpha.7)
+
+### Chores
+
+* add docs to RequestOptions type ([af49384](https://github.com/loyalfriend0615/mcp-demo-project/commit/af49384b1115b6b5e26f650869da62814310bf78))
+* **client:** improve path param validation ([b51bab1](https://github.com/loyalfriend0615/mcp-demo-project/commit/b51bab11a605f54ab866ce280f80375c9a7ab32d))
+
 ## 0.1.0-alpha.6 (2025-06-28)
 
 Full Changelog: [v0.1.0-alpha.5...v0.1.0-alpha.6](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.5...v0.1.0-alpha.6)
