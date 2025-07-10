@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.8 (2025-07-10)
+
+Full Changelog: [v0.1.0-alpha.7...v0.1.0-alpha.8](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.7...v0.1.0-alpha.8)
+
+### Chores
+
+* make some internal functions async ([3ed7123](https://github.com/loyalfriend0615/mcp-demo-project/commit/3ed7123180f2ef99024a0f69757ba6830839980e))
+
 ## 0.1.0-alpha.7 (2025-07-03)
 
 Full Changelog: [v0.1.0-alpha.6...v0.1.0-alpha.7](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.6...v0.1.0-alpha.7)
