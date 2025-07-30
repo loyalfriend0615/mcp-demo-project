@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.9 (2025-07-30)
+
+Full Changelog: [v0.1.0-alpha.8...v0.1.0-alpha.9](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.8...v0.1.0-alpha.9)
+
+### Chores
+
+* **internal:** remove redundant imports config ([fe1d591](https://github.com/loyalfriend0615/mcp-demo-project/commit/fe1d5913adce5d3e84d4f9c4b0c7e18e4c550e19))
+* **ts:** reorder package.json imports ([67fd0c9](https://github.com/loyalfriend0615/mcp-demo-project/commit/67fd0c9316d47714e285dcd15c0d698a29e3efb3))
+
 ## 0.1.0-alpha.8 (2025-07-10)
 
 Full Changelog: [v0.1.0-alpha.7...v0.1.0-alpha.8](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.7...v0.1.0-alpha.8)
