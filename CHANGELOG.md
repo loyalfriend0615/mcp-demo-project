@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.11 (2025-08-07)
+
+Full Changelog: [v0.1.0-alpha.10...v0.1.0-alpha.11](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.10...v0.1.0-alpha.11)
+
+### Chores
+
+* **internal:** move publish config ([40c0932](https://github.com/loyalfriend0615/mcp-demo-project/commit/40c093206a483300e6eb79c13ccedbd0041ce8b5))
+
 ## 0.1.0-alpha.10 (2025-07-31)
 
 Full Changelog: [v0.1.0-alpha.9...v0.1.0-alpha.10](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.9...v0.1.0-alpha.10)
