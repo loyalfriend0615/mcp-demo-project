@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.12 (2025-08-09)
+
+Full Changelog: [v0.1.0-alpha.11...v0.1.0-alpha.12](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.11...v0.1.0-alpha.12)
+
+### Chores
+
+* **internal:** update comment in script ([10c7f75](https://github.com/loyalfriend0615/mcp-demo-project/commit/10c7f7516f42979ec106a4363e6593770ea10ccc))
+* update @stainless-api/prism-cli to v5.15.0 ([5fcb2e6](https://github.com/loyalfriend0615/mcp-demo-project/commit/5fcb2e6c5ace3f5d027bdf2191d806e0dc89c787))
+
 ## 0.1.0-alpha.11 (2025-08-07)
 
 Full Changelog: [v0.1.0-alpha.10...v0.1.0-alpha.11](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.10...v0.1.0-alpha.11)
