@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.13 (2025-08-12)
+
+Full Changelog: [v0.1.0-alpha.12...v0.1.0-alpha.13](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.12...v0.1.0-alpha.13)
+
+### Chores
+
+* **internal:** codegen related update ([6014fd9](https://github.com/loyalfriend0615/mcp-demo-project/commit/6014fd988773dd4a66ac0079e4eca848ba120ac8))
+
 ## 0.1.0-alpha.12 (2025-08-09)
 
 Full Changelog: [v0.1.0-alpha.11...v0.1.0-alpha.12](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.11...v0.1.0-alpha.12)
