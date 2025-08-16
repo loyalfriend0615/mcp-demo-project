@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.14 (2025-08-16)
+
+Full Changelog: [v0.1.0-alpha.13...v0.1.0-alpha.14](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.13...v0.1.0-alpha.14)
+
+### Chores
+
+* **deps:** update dependency @types/node to v20.17.58 ([bfd02b4](https://github.com/loyalfriend0615/mcp-demo-project/commit/bfd02b4a5ecf089df954f6709c9858b903c444d4))
+* **internal:** formatting change ([789129a](https://github.com/loyalfriend0615/mcp-demo-project/commit/789129afcf9c110cae543c232363dc6e377ae695))
+
 ## 0.1.0-alpha.13 (2025-08-12)
 
 Full Changelog: [v0.1.0-alpha.12...v0.1.0-alpha.13](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.12...v0.1.0-alpha.13)
