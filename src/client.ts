@@ -726,9 +726,11 @@ export class McpDemoProject {
   store: API.Store = new API.Store(this);
   user: API.UserResource = new API.UserResource(this);
 }
+
 McpDemoProject.PetResource = PetResource;
 McpDemoProject.Store = Store;
 McpDemoProject.UserResource = UserResource;
+
 export declare namespace McpDemoProject {
   export type RequestOptions = Opts.RequestOptions;
 
