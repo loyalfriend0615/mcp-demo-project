@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.15 (2025-08-20)
+
+Full Changelog: [v0.1.0-alpha.14...v0.1.0-alpha.15](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.14...v0.1.0-alpha.15)
+
+### Features
+
+* **mcp:** add code execution tool ([69b70c1](https://github.com/loyalfriend0615/mcp-demo-project/commit/69b70c1ed843ecb3797b43a8b6764b75f37f06b1))
+
 ## 0.1.0-alpha.14 (2025-08-16)
 
 Full Changelog: [v0.1.0-alpha.13...v0.1.0-alpha.14](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.13...v0.1.0-alpha.14)
