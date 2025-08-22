@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.16 (2025-08-22)
+
+Full Changelog: [v0.1.0-alpha.15...v0.1.0-alpha.16](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.15...v0.1.0-alpha.16)
+
+### Chores
+
+* add package to package.json ([a5c786c](https://github.com/loyalfriend0615/mcp-demo-project/commit/a5c786caddb7ad915828e32d97c9fcbde32cb51d))
+* **client:** qualify global Blob ([715b12e](https://github.com/loyalfriend0615/mcp-demo-project/commit/715b12e5306bb7f060592c14654af8909e73fe56))
+
 ## 0.1.0-alpha.15 (2025-08-20)
 
 Full Changelog: [v0.1.0-alpha.14...v0.1.0-alpha.15](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.14...v0.1.0-alpha.15)
