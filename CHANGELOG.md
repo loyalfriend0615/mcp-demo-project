@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.17 (2025-08-23)
+
+Full Changelog: [v0.1.0-alpha.16...v0.1.0-alpha.17](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.16...v0.1.0-alpha.17)
+
+### Chores
+
+* update CI script ([63f7d60](https://github.com/loyalfriend0615/mcp-demo-project/commit/63f7d604ec115c8c3425e06e8cc920af19303ba0))
+
 ## 0.1.0-alpha.16 (2025-08-22)
 
 Full Changelog: [v0.1.0-alpha.15...v0.1.0-alpha.16](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.15...v0.1.0-alpha.16)
