@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.17 (2025-08-29)
+
+Full Changelog: [v0.1.0-alpha.16...v0.1.0-alpha.17](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.16...v0.1.0-alpha.17)
+
+### Chores
+
+* **internal:** update global Error reference ([43d7e6c](https://github.com/loyalfriend0615/mcp-demo-project/commit/43d7e6c92a1eba1a69bc1a4c847ac15020d3bc71))
+* update CI script ([63f7d60](https://github.com/loyalfriend0615/mcp-demo-project/commit/63f7d604ec115c8c3425e06e8cc920af19303ba0))
+
 ## 0.1.0-alpha.16 (2025-08-22)
 
 Full Changelog: [v0.1.0-alpha.15...v0.1.0-alpha.16](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.15...v0.1.0-alpha.16)
