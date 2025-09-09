@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.19 (2025-09-09)
+
+Full Changelog: [v0.1.0-alpha.18...v0.1.0-alpha.19](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.18...v0.1.0-alpha.19)
+
+### Bug Fixes
+
+* coerce nullable values to undefined ([a9abf02](https://github.com/loyalfriend0615/mcp-demo-project/commit/a9abf0220fe944a5cd02393d6595f3d8fbbcd50c))
+
 ## 0.1.0-alpha.18 (2025-09-06)
 
 Full Changelog: [v0.1.0-alpha.17...v0.1.0-alpha.18](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.17...v0.1.0-alpha.18)
