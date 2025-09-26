@@ -5,8 +5,8 @@
   "compilerOptions": {
     "rootDir": "./dist/src",
     "paths": {
-      "mcp-demo-project/*": ["dist/src/*"],
-      "mcp-demo-project": ["dist/src/index.ts"]
+      "mcp-demo-project/*": ["./dist/src/*"],
+      "mcp-demo-project": ["./dist/src/index.ts"]
     },
     "noEmit": false,
     "declaration": true,
