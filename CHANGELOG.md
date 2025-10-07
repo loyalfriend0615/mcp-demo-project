@@ -1,5 +1,30 @@
 # Changelog
 
+## 0.1.0-alpha.19 (2025-10-07)
+
+Full Changelog: [v0.1.0-alpha.18...v0.1.0-alpha.19](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.18...v0.1.0-alpha.19)
+
+### Bug Fixes
+
+* coerce nullable values to undefined ([a9abf02](https://github.com/loyalfriend0615/mcp-demo-project/commit/a9abf0220fe944a5cd02393d6595f3d8fbbcd50c))
+
+
+### Performance Improvements
+
+* faster formatting ([bfc6fe6](https://github.com/loyalfriend0615/mcp-demo-project/commit/bfc6fe6834ff7ca43d50f01ecc015ba4a17a78c5))
+
+
+### Chores
+
+* do not install brew dependencies in ./scripts/bootstrap by default ([3b20a39](https://github.com/loyalfriend0615/mcp-demo-project/commit/3b20a39ec72feac478a5392f2881355dd42e8144))
+* **internal:** codegen related update ([b0c86cd](https://github.com/loyalfriend0615/mcp-demo-project/commit/b0c86cd8697908e174803cd8e4c4f983aeed494c))
+* **internal:** fix incremental formatting in some cases ([9356fdb](https://github.com/loyalfriend0615/mcp-demo-project/commit/9356fdbd6a348c6f760478662c56e813e88a154a))
+* **internal:** ignore .eslintcache ([00f868a](https://github.com/loyalfriend0615/mcp-demo-project/commit/00f868a969a3ffc3112499c36aa1738cf47e2d05))
+* **internal:** remove .eslintcache ([d32c140](https://github.com/loyalfriend0615/mcp-demo-project/commit/d32c140ca56c8ef343f3a53908646d5018d0b433))
+* **internal:** remove deprecated `compilerOptions.baseUrl` from tsconfig.json ([2a9702d](https://github.com/loyalfriend0615/mcp-demo-project/commit/2a9702d5310961a36e1e7316ed19450836f78336))
+* **internal:** use npm pack for build uploads ([3c01b64](https://github.com/loyalfriend0615/mcp-demo-project/commit/3c01b64cf11e076b49f5989d0025a4c7946e5f21))
+* **jsdoc:** fix [@link](https://github.com/link) annotations to refer only to parts of the package‘s public interface ([308a70e](https://github.com/loyalfriend0615/mcp-demo-project/commit/308a70e4046b8ed9f07093114baf51ccaa5090e5))
+
 ## 0.1.0-alpha.18 (2025-09-06)
 
 Full Changelog: [v0.1.0-alpha.17...v0.1.0-alpha.18](https://github.com/loyalfriend0615/mcp-demo-project/compare/v0.1.0-alpha.17...v0.1.0-alpha.18)

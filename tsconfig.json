@@ -7,10 +7,9 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "baseUrl": "./",
     "paths": {
-      "mcp-demo-project/*": ["src/*"],
-      "mcp-demo-project": ["src/index.ts"]
+      "mcp-demo-project/*": ["./src/*"],
+      "mcp-demo-project": ["./src/index.ts"]
     },
     "noEmit": true,
 
